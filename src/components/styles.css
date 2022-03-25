@@ -1,0 +1,12 @@
+.ant-form-horizontal .ant-form-item-label {
+  width: 150px;
+  text-align: left;
+}
+
+.ant-divider > .ant-divider-inner-text {
+  padding: 0 15px;
+}
+
+.ant-upload-list.ant-upload-list-text {
+  max-width: 350px;
+}
